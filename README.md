@@ -8,6 +8,4 @@ This repository contains the code for the following experiments:
 - Verification of the two design guidelines,
 - Implementation of the proposed adaptive algorithm.
 
-Use `notebooks/plots.ipynb` to visualize the results.
-
 Please open an issue if you have questions or problems.
